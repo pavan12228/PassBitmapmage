@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PassBitmapmage</string>
+    <string name="title_activity_recieve_image">RecieveImageActivity</string>
+</resources>
